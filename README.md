@@ -11,5 +11,7 @@ Personal website
 TODO :
 
 [X] Project Structure
+****
 
-
+Requirements :
+* materializecss v1.0.0
